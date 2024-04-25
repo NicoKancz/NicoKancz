@@ -1,6 +1,6 @@
 # Hello World 🌍
 ---
-I am from Belgium and also graduated as a web developer/software engineer. I love programming, playing music on my guitar and boxing. Right now trying to learn and refresh my skills (see [Technologies](#💻-technologies)) and at the same time actively searching for an opportunity as a programming developer :)
+I am from Belgium and also graduated as a web developer/software engineer. I love programming, playing music on my guitar and boxing. Right now trying to learn and refresh my skills (see [Technologies](#my-anchor))) and at the same time actively searching for an opportunity as a programming developer :)
 ## 🔨 I’m currently working on:
 ---
 Projects for exercising my Frontend & Backend skillset.
@@ -12,7 +12,7 @@ JavaScript 🏁➖➖➖➖ <br>
 GIT 🏁➖➖➖🏃‍♂️ Learn Basics <br>
 SQL 🏁➖➖➖ <br>
 
-## 💻 Technologies:
+## 💻 Technologies:<a id="my-anchor"></a>
 ---
 ### Skills:
 HTML | CSS | JavaScript | PHP | Laravel | MySQL | OOP | Java | C#
