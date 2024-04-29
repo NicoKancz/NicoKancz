@@ -6,9 +6,9 @@ I am from Belgium and also graduated as a web developer/software engineer. I lov
 Projects for exercising my Frontend & Backend skillset.
 ## 📚 I’m currently (re)learning:
 ---
-HTML  🏁➖➖➖➖➖🏃‍♂️ Relearn Basics <br>
-CSS 🏁➖➖➖➖ <br>
-JavaScript 🏁➖➖➖➖ <br>
+HTML  🏁➖➖➖➖🏃‍♂️ Semantic HTML ✅Relearn Basics <br>
+CSS 🏁➖➖➖🏃‍♂️ Relearn Basics <br>
+JavaScript 🏁➖➖➖🏃‍♂️ Relearn Basics <br>
 GIT 🏁➖➖➖🏃‍♂️ Learn Basics <br>
 SQL 🏁➖➖➖ <br>
 
