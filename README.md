@@ -25,7 +25,7 @@ SQL 🏁➖➖➖ <br>
 ## 💻 Technologies:<a id="my-anchor"></a>
 ---
 ### Skills:
-HTML | CSS | JavaScript | PHP | Laravel | MySQL | OOP | Java | C#
+![HTML](https://img.shields.io/badge/HTML-E54C21)   ![CSS](https://img.shields.io/badge/CSS-214CE5)   ![JavaScript](https://img.shields.io/badge/JavaScript-FCDC00)   ![PHP](https://img.shields.io/badge/PHP-7A86B8)   ![Laravel](https://img.shields.io/badge/Laravel-F13E30)   ![MySQL](https://img.shields.io/badge/MySQL-254258)   ![Java](https://img.shields.io/badge/Java-5283A2) <br>
 ### History of my technologies:
 #### 2015-2016 Technical secundary education IT
 HTML + CSS + JavaScript + JQuery + PHP + MySQL
