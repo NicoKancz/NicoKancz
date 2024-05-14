@@ -8,10 +8,10 @@ Projects for exercising my Frontend & Backend skillset.
 
 ## 📖 I'm currently reading:
 ---
-Clean Architecture by Robert C. Martin
-![Screenshot of the book Clean Architecture by Robert C. Martin](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNqllhvWoZNpr_GxKGoRDdqJ-dPX6TUOQWaxUio5hJhy21e5mU)
-Clean Code by Robert C. Martin
-![Screenshot of the book Clean Code by Robert C. Martin](https://m.media-amazon.com/images/I/41bOkXnNBjL._AC_SY780_.jpg)
+Clean Architecture by Robert C. Martin <br>
+![Screenshot of the book Clean Architecture by Robert C. Martin]([https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNqllhvWoZNpr_GxKGoRDdqJ-dPX6TUOQWaxUio5hJhy21e5mU](https://m.media-amazon.com/images/I/41tjPqycZ1L._AC_SY780_DpWeblab_.jpg)) <br>
+Clean Code by Robert C. Martin <br>
+![Screenshot of the book Clean Code by Robert C. Martin](https://m.media-amazon.com/images/I/41bOkXnNBjL._AC_SY780_.jpg) <br>
 
 ## 📚 I’m currently (re)learning:
 ---
