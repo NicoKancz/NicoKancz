@@ -15,7 +15,7 @@ Excercises for my Frontend & Backend skillset(mostly private).
 
 ## 📚 I’m currently (re)learning:
 ---
-HTML  🏁➖➖➖🏃‍♂️➖ ✅Semantic HTML, ✅Relearn Basics <br>
+HTML  🏁➖➖➖🏃‍♂️➖ Forms and Validation, ✅Semantic HTML, ✅Relearn Basics <br>
 CSS 🏁➖➖🏃‍♂️➖ Layout:Flexbox + CSS Grid, ✅Relearn Basics <br>
 JavaScript 🏁➖➖🏃‍♂️➖ Browser: Document, Event, Interfaces Part 2 ✅Relearn Basics: [The Modern JavaScript Tutorials](https://javascript.info) Part 1 <br>
 GIT 🏁➖➖➖🏃‍♂️ Relearn Basics <br>
