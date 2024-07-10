@@ -4,7 +4,7 @@ I am from Belgium and also graduated as a web developer/software engineer. I lov
 
 ## 🔨 I’m currently working on:
 ---
-Excercises for my Frontend & Backend skillset(mostly private).
+Excercises for my Frontend & Backend skillset. Mostly from TOP([The Odin Project](https://www.theodinproject.com))
 
 ## 📖 I'm currently reading:
 ---
