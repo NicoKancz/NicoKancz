@@ -17,7 +17,7 @@ Excercises for my Frontend & Backend skillset(mostly private).
 ---
 HTML  🏁➖➖🏃‍♂️➖➖ Web Accessability, ✅Forms and Validation, ✅Semantic HTML, ✅Relearn Basics <br>
 CSS 🏁➖🏃‍♂️➖➖ Animations, Responsive Design, ✅Layout:Flexbox + CSS Grid, ✅Relearn Basics <br>
-JavaScript 🏁➖➖➖🏃‍♂️➖➖ JQuery, Angular, React, Fetch API/Ajax, ✅Browser: Document, Event, Interfaces ✅Relearn Basics: [The Modern JavaScript Tutorials](https://javascript.info) Part 1 <br>
+JavaScript 🏁➖➖➖🏃‍♂️➖➖ JQuery, Angular, React, Fetch API/Ajax, ✅Browser: Document, Event, Interfaces, ✅Relearn Basics: [The Modern JavaScript Tutorials](https://javascript.info) Part 1 <br>
 GIT 🏁➖➖➖🏃‍♂️ GIT Advanced, Github, ✅Relearn Basics <br>
 PHP 🏁➖➖➖🏃‍♂️ Laravel, PHP OOP, Relearn Basics: PHP for Beginners Series on Youtube by Laracasts <br>
 SQL 🏁➖➖➖ <br>
@@ -27,8 +27,8 @@ WebPack 🏁➖🏃‍♂️ <br>
 ## 💻 Technologies:<a id="my-anchor"></a>
 ---
 ### Skills:
-![HTML](https://img.shields.io/badge/HTML-E54C21)   ![CSS](https://img.shields.io/badge/CSS-214CE5)   ![JavaScript](https://img.shields.io/badge/JavaScript-FCDC00)   ![PHP](https://img.shields.io/badge/PHP-7A86B8)   ![Laravel](https://img.shields.io/badge/Laravel-F13E30)   ![MySQL](https://img.shields.io/badge/MySQL-254258)   ![Java](https://img.shields.io/badge/Java-5283A2) <br>
-### History of my technologies:
+![HTML](https://img.shields.io/badge/HTML-E54C21)   ![CSS](https://img.shields.io/badge/CSS-214CE5)   ![JavaScript](https://img.shields.io/badge/JavaScript-FCDC00)   ![PHP](https://img.shields.io/badge/PHP-7A86B8)   ![Laravel](https://img.shields.io/badge/Laravel-F13E30)   ![MySQL](https://img.shields.io/badge/MySQL-254258)   <!-- ![Java](https://img.shields.io/badge/Java-5283A2) --><br>
+### History of my skillset:
 #### 2015-2016 Technical secundary education IT
 HTML + CSS + JavaScript + JQuery + PHP + MySQL
 #### 2017-2019 Higher professional education IT
