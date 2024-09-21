@@ -2,31 +2,34 @@
 ---
 I am from Belgium and also graduated as a web developer/software engineer. I love programming, playing music on my guitar and boxing. Right now trying to learn and refresh my skills (see [Technologies](#my-anchor))) and at the same time actively searching for an opportunity as a programming developer :)
 
-## 🔨 I’m currently working on:
+## 🔨 I’m currently working on
 ---
 Excercises for my Frontend & Backend skillset. Mostly from TOP([The Odin Project](https://www.theodinproject.com))
 
-## 📖 I'm currently reading:
+## 📖 I'm currently reading
 ---
 ### Clean Architecture by Robert C. Martin <br>
 <img src="https://m.media-amazon.com/images/I/41tjPqycZ1L._AC_SY780_DpWeblab_.jpg" alt="Screenshot of the book Clean Architecture by Robert C. Martin" width="250px" height="300px"> <br>
-### Clean Code by Robert C. Martin <br>
-<img src="https://m.media-amazon.com/images/I/41bOkXnNBjL._AC_SY780_.jpg" alt="Screenshot of the book Clean Code by Robert C. Martin" width="250px" height="300px"> <br>
+### Design Patterns by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides <br>
+<img src="https://github.com/user-attachments/assets/eb375065-9479-43dd-927c-0585c1318d32" alt="Screenshot of the book Design Patterns by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides" width="250px" height="300px"> <br>
 
-## 📚 I’m currently (re)learning:
+## 📚 I’m currently (re)learning
 ---
 HTML  🏁➖➖🏃‍♂️➖➖ Web Accessability, ✅Forms and Validation, ✅Semantic HTML, ✅Relearn Basics <br>
-CSS 🏁➖🏃‍♂️➖➖ Animations, Responsive Design, ✅Layout:Flexbox + CSS Grid, ✅Relearn Basics <br>
-JavaScript 🏁➖➖➖🏃‍♂️➖➖ JQuery, Angular, React, Fetch API/Ajax, ✅Browser: Document, Event, Interfaces, ✅Relearn Basics: [The Modern JavaScript Tutorials](https://javascript.info) Part 1 <br>
-GIT 🏁➖➖➖🏃‍♂️ GIT Advanced, Github, ✅Relearn Basics <br>
-PHP 🏁➖➖➖🏃‍♂️ Laravel, PHP OOP, Relearn Basics: PHP for Beginners Series on Youtube by Laracasts <br>
-SQL 🏁➖➖➖ <br>
-NPM 🏁➖🏃‍♂️ <br>
-WebPack 🏁➖🏃‍♂️ <br>
+CSS 🏁➖🏃‍♂️➖➖ Animations, ✅Responsive Design, ✅Layout:Flexbox + CSS Grid, ✅Relearn Basics <br>
+JavaScript 🏁➖➖➖🏃‍♂️➖➖ NodeJS, React, ✅Fetch API/Ajax, ✅Browser: Document, Event, Interfaces, ✅Relearn Basics <br>
+GIT 🏁➖➖🏃‍♂️➖ GIT Advanced, Github, ✅Relearn Basics <br>
+PHP 🏁➖➖🏃‍♂️➖ Laravel, PHP OOP, ✅Relearn Basics <br>
+SQL 🏁➖➖🏃‍♂️ Relearn Queries <br>
 
-## 💻 Technologies:<a id="my-anchor"></a>
+### Resources
+Roadmap as an overview: Roadmap.sh([FrontEnd](https://roadmap.sh/frontend) and [BackEnd](https://roadmap.sh/backend)) <br>
+JavaScript + NPM + WebPack + React + NodeJS: [The Modern JavaScript Tutorials](https://javascript.info) + [The Odin Project](https://www.theodinproject.com) <br>
+PHP + Laravel + Composer: [PHP for Beginners Series by Laracasts](https://www.youtube.com/watch?v=U2lQWR6uIuo&list=PL3VM-unCzF8ipG50KDjnzhugceoSG3RTC) + [30 Days to learn Laravel by Laracasts](https://www.youtube.com/watch?v=1NjOWtQ7S2o&list=PL3VM-unCzF8hy47mt9-chowaHNjfkuEVz) <br>
+
+## 💻 Technologies<a id="my-anchor"></a>
 ---
-### Skills:
+### Skills
 ![HTML](https://img.shields.io/badge/HTML-E54C21)   ![CSS](https://img.shields.io/badge/CSS-214CE5)   ![JavaScript](https://img.shields.io/badge/JavaScript-FCDC00)   ![PHP](https://img.shields.io/badge/PHP-7A86B8)   ![Laravel](https://img.shields.io/badge/Laravel-F13E30)   ![MySQL](https://img.shields.io/badge/MySQL-254258)   <!-- ![Java](https://img.shields.io/badge/Java-5283A2) --><br>
 ### History of my skillset:
 #### 2015-2016 Technical secundary education IT
