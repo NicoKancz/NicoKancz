@@ -44,12 +44,11 @@ BackEnd: PHP + Laravel + MySQL <br>
 Wordpress
 #### 2024 - ? Self study
 GIT + Github <br>
-FrontEnd: HTML + CSS + JavaScript <br>
-FrontEnd Library: React <br>
+FrontEnd: HTML + CSS + JavaScript + React <br>
 Package Manager: NPM(JS), Composer(PHP) <br>
 Module Bundler: WebPack <br>
-BackEnd: PHP + MySQL <br>
-BackEnd Framework: Laravel <br>
+BackEnd: PHP + Laravel <br>
+Database: MySQL <br>
 
 <!-- ### 🤔 I’m looking for help with ...
 ### 👯 I’m looking to collaborate on ...
