@@ -1,6 +1,6 @@
 # Hello World 🌍
 ---
-I am from Belgium and also graduated as a web developer/software engineer. I love programming, playing music on my guitar and boxing. Right now trying to learn and refresh my skills (see [Technologies](#my-anchor))) and at the same time actively searching for an opportunity as a programming developer :)
+I am from Belgium and also graduated as a web/software developer. I love programming, playing music on my guitar and boxing. Right now I am trying to learn and refresh my skills (see [Technologies](#my-anchor))) and at the same time actively searching for an opportunity as a programming developer :)
 
 ## 🔨 I’m currently working on
 ---
@@ -10,8 +10,10 @@ Excercises for my Frontend & Backend skillset. Mostly from TOP([The Odin Project
 ---
 ### Clean Architecture by Robert C. Martin <br>
 <img src="https://m.media-amazon.com/images/I/41tjPqycZ1L._AC_SY780_DpWeblab_.jpg" alt="Screenshot of the book Clean Architecture by Robert C. Martin" width="250px" height="300px"> <br>
-### Design Patterns by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides <br>
+### Design Patterns by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides (Gang of Four) <br>
 <img src="https://github.com/user-attachments/assets/eb375065-9479-43dd-927c-0585c1318d32" alt="Screenshot of the book Design Patterns by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides" width="250px" height="300px"> <br>
+### The Art of Unit Testing by Roy Osherove <br>
+<img src="https://m.media-amazon.com/images/I/71UeeqHtoYL._AC_UF1000,1000_QL80_.jpg" alt="Screenshot of the book The Art of Unit Testing by Roy Osherove" width="250px" height="300px"> <br>
 
 ## 📚 I’m currently (re)learning
 ---
@@ -22,7 +24,7 @@ GIT 🏁➖➖🏃‍♂️➖ GIT Advanced, Github, ✅Relearn Basics <br>
 PHP 🏁➖➖🏃‍♂️➖ Laravel, PHP OOP, ✅Relearn Basics <br>
 SQL 🏁➖➖🏃‍♂️ Relearn Queries <br>
 
-### Resources
+### Study Material
 Roadmap as an overview: Roadmap.sh([FrontEnd](https://roadmap.sh/frontend) and [BackEnd](https://roadmap.sh/backend)) <br>
 JavaScript + NPM + WebPack + React + NodeJS: [The Modern JavaScript Tutorials](https://javascript.info) + [The Odin Project](https://www.theodinproject.com) <br>
 PHP + Laravel + Composer: [PHP for Beginners Series by Laracasts](https://www.youtube.com/watch?v=U2lQWR6uIuo&list=PL3VM-unCzF8ipG50KDjnzhugceoSG3RTC) + [30 Days to learn Laravel by Laracasts](https://www.youtube.com/watch?v=1NjOWtQ7S2o&list=PL3VM-unCzF8hy47mt9-chowaHNjfkuEVz) <br>
