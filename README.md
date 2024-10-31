@@ -14,6 +14,8 @@ Excercises for my Frontend & Backend skillset. Mostly from TOP([The Odin Project
 <img src="https://github.com/user-attachments/assets/eb375065-9479-43dd-927c-0585c1318d32" alt="Screenshot of the book Design Patterns by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides" width="250px" height="300px"> <br>
 ### The Art of Unit Testing by Roy Osherove <br>
 <img src="https://m.media-amazon.com/images/I/71UeeqHtoYL._AC_UF1000,1000_QL80_.jpg" alt="Screenshot of the book The Art of Unit Testing by Roy Osherove" width="250px" height="300px"> <br>
+### Apprenticeship Patterns by David H. Hoover & Adewale Oshineye <br>
+<img src="https://m.media-amazon.com/images/I/91pxK3G82vL._AC_UF1000,1000_QL80_.jpg" alt="Screenshot of the book Apprenticeship Patterns by David H. Hoover and Adewale Oshineye" width="250px" height="300px"> <br>
 
 ## 📚 I’m currently (re)learning
 ---
@@ -21,8 +23,8 @@ HTML  🏁➖➖🏃‍♂️➖➖ Web Accessability, ✅Forms and Validation, 
 CSS 🏁➖🏃‍♂️➖➖ Animations, ✅Responsive Design, ✅Layout:Flexbox + CSS Grid, ✅Relearn Basics <br>
 JavaScript 🏁➖➖➖🏃‍♂️➖➖ NodeJS, React, ✅Fetch API/Ajax, ✅Browser: Document, Event, Interfaces, ✅Relearn Basics <br>
 GIT 🏁➖➖🏃‍♂️➖ GIT Advanced, Github, ✅Relearn Basics <br>
-PHP 🏁➖➖🏃‍♂️➖ Laravel, PHP OOP, ✅Relearn Basics <br>
-SQL 🏁➖➖🏃‍♂️ Relearn Queries <br>
+PHP 🏁➖🏃‍♂️➖➖ ✅Laravel, ✅PHP OOP, ✅Relearn Basics <br>
+SQL 🏁➖🏃‍♂️➖ Learn modelling ERD, ✅Relearn Queries <br>
 
 ### Study Material
 Roadmap as an overview: Roadmap.sh([FrontEnd](https://roadmap.sh/frontend) and [BackEnd](https://roadmap.sh/backend)) <br>
