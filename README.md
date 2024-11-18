@@ -18,7 +18,10 @@ Excercises for my Frontend & Backend skillset. Mostly from TOP([The Odin Project
 <img src="https://github.com/user-attachments/assets/eb375065-9479-43dd-927c-0585c1318d32" alt="Screenshot of the book Design Patterns by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides" width="150px" height="200px"> <br> -->
 ### The Art of Unit Testing by Roy Osherove <br>
 <img src="https://m.media-amazon.com/images/I/71UeeqHtoYL._AC_UF1000,1000_QL80_.jpg" alt="Screenshot of the book The Art of Unit Testing by Roy Osherove" width="150px" height="200px"> <br>
-<img src="https://m.media-amazon.com/images/I/91pxK3G82vL._AC_UF1000,1000_QL80_.jpg" alt="Screenshot of the book Apprenticeship Patterns by David H. Hoover and Adewale Oshineye" width="80px" height="100px"> <br>
+
+## 📒 Finished Books <br>
+---
+<img src="https://m.media-amazon.com/images/I/91pxK3G82vL._AC_UF1000,1000_QL80_.jpg" alt="Screenshot of the book Apprenticeship Patterns by David H. Hoover and Adewale Oshineye" width="150px" height="200px"> <br>
 <br>
 
 ## 📚 I’m currently (re)learning
