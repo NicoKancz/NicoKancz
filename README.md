@@ -24,7 +24,7 @@ Excercises for my Frontend & Backend skillset. Mostly from TOP([The Odin Project
 <img src="https://m.media-amazon.com/images/I/91pxK3G82vL._AC_UF1000,1000_QL80_.jpg" alt="Screenshot of the book Apprenticeship Patterns by David H. Hoover and Adewale Oshineye" width="150px" height="200px"> <br>
 <br>
 
-## 📚 I’m currently (re)learning
+## 📚 I’m currently learning
 ---
 HTML  🏁➖➖🏃‍♂️➖➖ Web Accessability, ✅Forms and Validation, ✅Semantic HTML, ✅Relearn Basics <br>
 CSS 🏁➖🏃‍♂️➖➖ Animations, ✅Responsive Design, ✅Layout:Flexbox + CSS Grid, ✅Relearn Basics <br>
