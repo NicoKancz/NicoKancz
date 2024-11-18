@@ -63,7 +63,7 @@ Database: MySQL <br>
 
 ## 📫 How to reach me
 ---
-E-mail: nico.kancz1@gmail.com
+E-mail: nico.kancz1@gmail.com <br>
 My Portfolio Website: [Link to Portfolio](https://nicokancz.github.io/webdeveloper-portfolio-nicokancz/)
 
 <!-- ### 🤔 I’m looking for help with ...
