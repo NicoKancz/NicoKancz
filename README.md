@@ -14,8 +14,8 @@ Excercises for my Frontend & Backend skillset. Mostly from TOP([The Odin Project
 <img src="https://www.jamesshore.com/images/aoad2/cover/aoad2-cover-final-1050x1379.jpg" alt="Screenshot of the book The Art of Agile Development by James Shore" width="150px" height="200px"> <br>
 ### Head First Design Patterns by Eric Freeman & Elisabeth Robson <br>
 <img src="https://m.media-amazon.com/images/I/51rmlxN57sL._AC_SY780_.jpg" alt="Screenshot of the book Head First Design Patterns by Eric Freeman and Elisabeth Robson" width="150px" height="200px"> <br>
-### Clean Architecture by Robert C. Martin <br>
-<img src="https://m.media-amazon.com/images/I/41tjPqycZ1L._AC_SY780_DpWeblab_.jpg" alt="Screenshot of the book Clean Architecture by Robert C. Martin" width="150px" height="200px"> <br>
+### Refactoring by Martin Fowler <br>
+<img src="https://media.s-bol.com/Yvm0rNv0zGl0/550x721.jpg" alt="Screenshot of the book Refactoring by Martin Fowler" width="150px" height="200px"> <br>
 ### The Art of Unit Testing by Roy Osherove <br>
 <img src="https://m.media-amazon.com/images/I/71UeeqHtoYL._AC_UF1000,1000_QL80_.jpg" alt="Screenshot of the book The Art of Unit Testing by Roy Osherove" width="150px" height="200px"> <br>
 <!-- ### Design Patterns by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides (Gang of Four) <br>
@@ -24,6 +24,7 @@ Excercises for my Frontend & Backend skillset. Mostly from TOP([The Odin Project
 ## 📒 Finished Books <br>
 ---
 <p>
+  <img src="https://m.media-amazon.com/images/I/41tjPqycZ1L._AC_SY780_DpWeblab_.jpg" alt="Screenshot of the book Clean Architecture by Robert C. Martin" width="150px" height="200px">
   <img src="https://m.media-amazon.com/images/I/81FU6XvWUHL.jpg" alt="Screenshot of the book Object Oriented Thought Process Fifth Edition by Matt Weisfeld" width="150px" height="200px">
   <img src="https://m.media-amazon.com/images/I/91pxK3G82vL._AC_UF1000,1000_QL80_.jpg" alt="Screenshot of the book Apprenticeship Patterns by David H. Hoover and Adewale Oshineye" width="150px" height="200px">
 </p>
